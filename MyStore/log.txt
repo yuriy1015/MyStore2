@@ -1,0 +1,94 @@
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 17:22:47, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 17:23:52, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Product (MyStore), время обращения 17:23:58, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 17:22:33, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 17:25:08, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.AddToCart (MyStore), время обращения 17:25:15, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Cart (MyStore), время обращения 17:25:46, пользователь  New_client@_98febf2e-8142-4698-928d-b2d13ce3e9a5
+Выполнен метод MyStore.Controllers.StoreController.CartForm (MyStore), время обращения 17:25:46, пользователь  New_client@_98febf2e-8142-4698-928d-b2d13ce3e9a5
+Выполнен метод MyStore.Controllers.StoreController.SendCartForm (MyStore), время обращения 17:26:00, пользователь  New_client@_98febf2e-8142-4698-928d-b2d13ce3e9a5
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 12:59:44, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:22:07, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:24:42, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:27:18, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:28:15, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:32:14, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:49:08, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:51:24, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:52:14, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 13:52:18, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.AddToCart (MyStore), время обращения 13:54:32, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Cart (MyStore), время обращения 13:54:43, пользователь  New_client@_9f4702e3-9691-4475-b6a4-0f41209d7eaf
+Выполнен метод MyStore.Controllers.StoreController.CartForm (MyStore), время обращения 13:54:43, пользователь  New_client@_9f4702e3-9691-4475-b6a4-0f41209d7eaf
+Выполнен метод MyStore.Controllers.HomeController.SignIn (MyStore), время обращения 13:54:58, пользователь  New_client@_9f4702e3-9691-4475-b6a4-0f41209d7eaf
+Выполнен метод MyStore.Controllers.AdminController.ProductsManagement (MyStore), время обращения 13:55:02, пользователь a@a 
+Выполнен метод MyStore.Controllers.AdminController.CreateProductForm (MyStore), время обращения 13:55:24, пользователь a@a 
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 13:58:29, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:00:45, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:01:51, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:02:40, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:03:37, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:04:48, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:05:53, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:06:58, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:18:15, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 14:18:44, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:19:16, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:20:31, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:20:37, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:20:53, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:21:11, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:21:24, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:21:38, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 14:21:59, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 14:22:01, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 14:22:07, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 14:22:08, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:37:28, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:56:30, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:56:40, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 14:56:42, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Articles (MyStore), время обращения 14:56:44, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Questions (MyStore), время обращения 14:56:49, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Prices (MyStore), время обращения 14:56:53, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Delivery (MyStore), время обращения 14:56:56, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Contacts (MyStore), время обращения 14:56:58, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 14:57:08, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 15:03:11, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Articles (MyStore), время обращения 15:03:13, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Questions (MyStore), время обращения 15:03:15, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Prices (MyStore), время обращения 15:03:16, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Delivery (MyStore), время обращения 15:03:17, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Contacts (MyStore), время обращения 15:03:18, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 15:03:26, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 15:03:49, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 19:53:56, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 19:54:03, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Product (MyStore), время обращения 19:54:15, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.AddToCart (MyStore), время обращения 19:54:29, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Cart (MyStore), время обращения 19:55:43, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.CartForm (MyStore), время обращения 19:55:44, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 19:55:50, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.AddToCart (MyStore), время обращения 19:55:57, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.Cart (MyStore), время обращения 19:56:22, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.CartForm (MyStore), время обращения 19:56:22, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 19:56:29, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.Product (MyStore), время обращения 19:56:59, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.AddToCart (MyStore), время обращения 19:57:04, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.Cart (MyStore), время обращения 19:57:08, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.CartForm (MyStore), время обращения 19:57:08, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.StoreController.CartForm (MyStore), время обращения 19:57:17, пользователь  New_client@_0f2735aa-ae6f-49d3-bad2-047341e1f01c
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 20:25:12, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 20:25:18, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Product (MyStore), время обращения 20:25:24, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.AddToCart (MyStore), время обращения 20:25:44, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Cart (MyStore), время обращения 20:25:48, пользователь  New_client@_3ac3b52c-0af6-46c5-8c29-3d65cc7ff8a1
+Выполнен метод MyStore.Controllers.StoreController.CartForm (MyStore), время обращения 20:25:48, пользователь  New_client@_3ac3b52c-0af6-46c5-8c29-3d65cc7ff8a1
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 20:25:55, пользователь  New_client@_3ac3b52c-0af6-46c5-8c29-3d65cc7ff8a1
+Выполнен метод MyStore.Controllers.StoreController.Product (MyStore), время обращения 20:25:57, пользователь  New_client@_3ac3b52c-0af6-46c5-8c29-3d65cc7ff8a1
+Выполнен метод MyStore.Controllers.StoreController.AddToCart (MyStore), время обращения 20:26:01, пользователь  New_client@_3ac3b52c-0af6-46c5-8c29-3d65cc7ff8a1
+Выполнен метод MyStore.Controllers.StoreController.Cart (MyStore), время обращения 20:26:05, пользователь  New_client@_3ac3b52c-0af6-46c5-8c29-3d65cc7ff8a1
+Выполнен метод MyStore.Controllers.StoreController.CartForm (MyStore), время обращения 20:26:05, пользователь  New_client@_3ac3b52c-0af6-46c5-8c29-3d65cc7ff8a1
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 01:10:57, пользователь  
+Выполнен метод MyStore.Controllers.HomeController.Index (MyStore), время обращения 20.04.2022 01:53:24, пользователь  
+Выполнен метод MyStore.Controllers.StoreController.Products (MyStore), время обращения 20.04.2022 01:53:37, пользователь  
